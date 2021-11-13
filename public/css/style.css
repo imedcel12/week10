@@ -1,0 +1,19 @@
+.hero{
+    background-image: url('../images/background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 950px;
+    color: #664040;
+}
+
+.card-title{
+    color: #745959;
+}
+
+.index{
+    margin-top: 20px;
+}
+.text-style{
+    color: Green;
+}
